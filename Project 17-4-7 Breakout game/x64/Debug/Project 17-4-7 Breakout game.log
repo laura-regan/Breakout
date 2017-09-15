@@ -1,0 +1,37 @@
+﻿Brick.obj : error LNK2019: unresolved external symbol SDL_RenderCopy referenced in function "public: void __cdecl Brick::render(void)" (?render@Brick@@QEAAXXZ)
+Dot.obj : error LNK2001: unresolved external symbol SDL_RenderCopy
+LTexture.obj : error LNK2001: unresolved external symbol SDL_RenderCopy
+Paddle.obj : error LNK2001: unresolved external symbol SDL_RenderCopy
+functions.obj : error LNK2019: unresolved external symbol SDL_GetError referenced in function "bool __cdecl init(void)" (?init@@YA_NXZ)
+LTexture.obj : error LNK2001: unresolved external symbol SDL_GetError
+functions.obj : error LNK2019: unresolved external symbol SDL_CreateWindow referenced in function "bool __cdecl init(void)" (?init@@YA_NXZ)
+functions.obj : error LNK2019: unresolved external symbol SDL_DestroyWindow referenced in function "void __cdecl close(void)" (?close@@YAXXZ)
+functions.obj : error LNK2019: unresolved external symbol SDL_CreateRenderer referenced in function "bool __cdecl init(void)" (?init@@YA_NXZ)
+functions.obj : error LNK2019: unresolved external symbol SDL_SetRenderDrawColor referenced in function "bool __cdecl init(void)" (?init@@YA_NXZ)
+main.obj : error LNK2001: unresolved external symbol SDL_SetRenderDrawColor
+render_functions.obj : error LNK2001: unresolved external symbol SDL_SetRenderDrawColor
+functions.obj : error LNK2019: unresolved external symbol SDL_SetRenderDrawBlendMode referenced in function "bool __cdecl init(void)" (?init@@YA_NXZ)
+functions.obj : error LNK2019: unresolved external symbol SDL_DestroyRenderer referenced in function "void __cdecl close(void)" (?close@@YAXXZ)
+functions.obj : error LNK2019: unresolved external symbol SDL_Init referenced in function "bool __cdecl init(void)" (?init@@YA_NXZ)
+functions.obj : error LNK2019: unresolved external symbol SDL_Quit referenced in function "void __cdecl close(void)" (?close@@YAXXZ)
+functions.obj : error LNK2019: unresolved external symbol IMG_Init referenced in function "bool __cdecl init(void)" (?init@@YA_NXZ)
+functions.obj : error LNK2019: unresolved external symbol IMG_Quit referenced in function "void __cdecl close(void)" (?close@@YAXXZ)
+functions.obj : error LNK2019: unresolved external symbol TTF_Init referenced in function "bool __cdecl init(void)" (?init@@YA_NXZ)
+functions.obj : error LNK2019: unresolved external symbol TTF_OpenFont referenced in function "bool __cdecl loadMedia(void)" (?loadMedia@@YA_NXZ)
+functions.obj : error LNK2019: unresolved external symbol TTF_Quit referenced in function "void __cdecl close(void)" (?close@@YAXXZ)
+LTexture.obj : error LNK2019: unresolved external symbol SDL_FreeSurface referenced in function "public: bool __cdecl LTexture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?loadFromFile@LTexture@@QEAA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+LTexture.obj : error LNK2019: unresolved external symbol SDL_CreateTextureFromSurface referenced in function "public: bool __cdecl LTexture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?loadFromFile@LTexture@@QEAA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+LTexture.obj : error LNK2019: unresolved external symbol SDL_SetTextureColorMod referenced in function "public: void __cdecl LTexture::setColor(unsigned char,unsigned char,unsigned char)" (?setColor@LTexture@@QEAAXEEE@Z)
+LTexture.obj : error LNK2019: unresolved external symbol SDL_DestroyTexture referenced in function "public: void __cdecl LTexture::free(void)" (?free@LTexture@@QEAAXXZ)
+LTexture.obj : error LNK2019: unresolved external symbol IMG_Load referenced in function "public: bool __cdecl LTexture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?loadFromFile@LTexture@@QEAA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+LTexture.obj : error LNK2019: unresolved external symbol TTF_RenderText_Solid referenced in function "public: bool __cdecl LTexture::loadFromText(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct SDL_Color)" (?loadFromText@LTexture@@QEAA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@USDL_Color@@@Z)
+main.obj : error LNK2019: unresolved external symbol SDL_GetMouseState referenced in function SDL_main
+main.obj : error LNK2019: unresolved external symbol SDL_PollEvent referenced in function SDL_main
+main.obj : error LNK2019: unresolved external symbol SDL_RenderPresent referenced in function SDL_main
+render_functions.obj : error LNK2019: unresolved external symbol SDL_RenderClear referenced in function "void __cdecl renderGame(void)" (?renderGame@@YAXXZ)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Laura Isabel\Google Drive\SDL\vs_dev_lib\SDL2_ttf-2.0.14\lib\x86\SDL2_ttf.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Users\Laura Isabel\Google Drive\SDL\vs_dev_lib\SDL2_image-2.0.1\lib\x86\SDL2_image.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Users\Laura Isabel\Google Drive\SDL\vs_dev_lib\SDL2-2.0.5\lib\x86\SDL2main.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Users\Laura Isabel\Google Drive\SDL\vs_dev_lib\SDL2-2.0.5\lib\x86\SDL2.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Users\Laura Isabel\Google Drive\SDL\Projects\Project 17-4-7 Breakout game\x64\Debug\Project 17-4-7 Breakout game.exe : fatal error LNK1120: 26 unresolved externals

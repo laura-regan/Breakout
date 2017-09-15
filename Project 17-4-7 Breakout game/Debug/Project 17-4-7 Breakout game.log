@@ -1,0 +1,152 @@
+﻿  Wall.cpp
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\constants.h(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\brick.h(13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Startmenu.cpp
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\constants.h(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\menu.h(28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\menu.h(34): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\brick.h(13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\dot.h(14): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\startmenu.h(28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\startmenu.h(34): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\health.h(13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  Score.cpp
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\constants.h(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\score.cpp(28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  render_functions.cpp
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\constants.h(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\brick.h(13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\dot.h(14): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\menu.h(28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\menu.h(34): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\startmenu.h(28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\startmenu.h(34): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\health.h(13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  Player.cpp
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\constants.h(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\health.h(13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  Paddle.cpp
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\constants.h(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\brick.h(13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\dot.h(14): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\menu.h(28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\menu.h(34): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\startmenu.h(28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\startmenu.h(34): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\health.h(13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\paddle.cpp(9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\paddle.cpp(12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Menu.cpp
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\constants.h(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\menu.h(28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\menu.h(34): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\brick.h(13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\dot.h(14): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\startmenu.h(28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\startmenu.h(34): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\health.h(13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  main.cpp
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\constants.h(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\brick.h(13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\dot.h(14): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\menu.h(28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\menu.h(34): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\startmenu.h(28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\startmenu.h(34): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\health.h(13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\main.cpp(37): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\main.cpp(37): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\main.cpp(40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LTexture.cpp
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\constants.h(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\brick.h(13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\dot.h(14): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\menu.h(28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\menu.h(34): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\startmenu.h(28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\startmenu.h(34): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\health.h(13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  Health.cpp
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\constants.h(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\health.h(13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  globals.cpp
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\constants.h(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\brick.h(13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\dot.h(14): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\menu.h(28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\menu.h(34): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\startmenu.h(28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\startmenu.h(34): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\health.h(13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  functions.cpp
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\constants.h(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\brick.h(13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\dot.h(14): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\menu.h(28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\menu.h(34): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\startmenu.h(28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\startmenu.h(34): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\health.h(13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  Dot.cpp
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\constants.h(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\brick.h(13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\dot.h(14): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\menu.h(28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\menu.h(34): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\startmenu.h(28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\startmenu.h(34): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\health.h(13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\dot.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\dot.cpp(20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\dot.cpp(22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\dot.cpp(23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\dot.cpp(142): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\dot.cpp(186): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\dot.cpp(369): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\dot.cpp(371): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\dot.cpp(372): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Brick.cpp
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\constants.h(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\brick.h(13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\wall.h(20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\dot.h(14): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\menu.h(28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\menu.h(34): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\startmenu.h(28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\startmenu.h(34): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\laura isabel\google drive\sdl\projects\project 17-4-7 breakout game\project 17-4-7 breakout game\health.h(13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  Generating Code...
+  Project 17-4-7 Breakout game.vcxproj -> C:\Users\Laura Isabel\Google Drive\SDL\Projects\Project 17-4-7 Breakout game\Debug\Project 17-4-7 Breakout game.exe
+  Project 17-4-7 Breakout game.vcxproj -> C:\Users\Laura Isabel\Google Drive\SDL\Projects\Project 17-4-7 Breakout game\Debug\Project 17-4-7 Breakout game.pdb (Partial PDB)
